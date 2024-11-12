@@ -1,0 +1,1 @@
+kubeadm join 10.0.2.15:6443 --token l5tayp.w0orbm9apfrswmk3 --discovery-token-ca-cert-hash sha256:b64d7dbf507d56ca0927f6d3dc872726cb73e84f1a00869a8d8d41b0619730ac
