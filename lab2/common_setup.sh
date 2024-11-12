@@ -1,7 +1,8 @@
 # common_setup.sh
 
 # Обновление и установка необходимых пакетов
-sudo apt update && sudo apt upgrade -y
+sudo apt update
+#  && sudo apt upgrade -y
 sudo apt install -y curl apt-transport-https git iptables-persistent
 
 # Отключаем swap
